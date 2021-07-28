@@ -10,3 +10,7 @@ Vocabulary Trainer written in Python 3
 2. Create GUI
 3. Allow user to iterate through words
 4. Allow user to reveal translation
+
+## Modules
+* tkinter for GUI
+* Pandas for data handling
