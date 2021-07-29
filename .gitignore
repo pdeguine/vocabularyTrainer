@@ -3,3 +3,4 @@ venv
 .idea/misc.xml
 .idea/vocabularyTrainer.iml
 .idea/*
+__pycache__
